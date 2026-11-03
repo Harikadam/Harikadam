@@ -18,9 +18,9 @@ Here are some ideas to get you started:<div align="center">
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/suchith-k-0262a5252/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a mailto:href="mailto:suchith004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Suchith-K-git"><img src="https://img.shields.io/github/followers/Suchith-K-git?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=0284C7&labelColor=020617" alt="GitHub followers"/></a>
+<a href="linkedin.com/in/haripalkadam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a mailto:href="mailto:kadamharipal611@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Harikadam-git"><img src="https://img.shields.io/github/followers/Suchith-K-git?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=0284C7&labelColor=020617" alt="GitHub followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=Suchith-K-git&style=flat-square&color=0284C7&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
@@ -35,9 +35,9 @@ Here are some ideas to get you started:<div align="center">
 <tr>
 <td width="58%" valign="top">
 
-### Hello, I'm Suchith 👋
+### Hello, I'm Haripal 👋
 
-DevOps Engineer based in Bengaluru, India, with close to **2 years of hands-on experience** in cloud infrastructure, automation, CI/CD, and containerization.
+DevOps Engineer based in pune, India, with close to **Fresher** in cloud infrastructure, automation, CI/CD, and containerization.
 
 I build reliable deployment workflows, automate repetitive tasks, and improve software delivery through DevOps and DevSecOps practices.
 
