@@ -25,7 +25,7 @@
 
 ## 🧑‍🚀 WHO AM I?
 
-I'm **Haripal Kadam**, an IT undergraduate and aspiring DevOps Engineer from Pune, India.
+I'm **Haripal Kadam**, an aspiring Java Full Stack and aspiring DevOps Engineer from Pune, India.
 
 I enjoy exploring how software moves from development to production through automation, cloud infrastructure, and reliable deployment workflows.
 
@@ -152,7 +152,7 @@ My interests include:
 
 <text>2023 – 2027 | Pursuing</text>
 
-<text>CGPA: 8.9 / 10</text>
+<text>CGPA: 9.29 / 10</text>
 
 </div>
 
@@ -167,13 +167,13 @@ My interests include:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harikadam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikadam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikadam&theme=tokyonight&hide_border=true"/>
 
 </div>
 
