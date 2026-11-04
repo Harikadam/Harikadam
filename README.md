@@ -1,18 +1,18 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=HARIPAL%20KADAM&fontSize=55&fontColor=ffffff&stroke=38BDF8&strokeWidth=2&color=0:020617,50:172554,100:0891B2&desc=JAVA%20DEVELOPER%20%7C%20DEVOPS%20ENGINEER%20%7C%20CLOUD%20ENTHUSIAST&descSize=16&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=HARIPAL%20KADAM&fontSize=55&fontColor=ffffff&stroke=A78BFA&strokeWidth=2&color=0:090014,35:25104A,70:4C1D95,100:0891B2&desc=JAVA%20DEVELOPER%20%7C%20DEVOPS%20ENGINEER%20%7C%20CLOUD%20ENTHUSIAST&descSize=16&descAlignY=70" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+Workspace!;Building+%7C+Automating+%7C+Deploying;Learning+Cloud+and+DevOps+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+Workspace!;Building+%7C+Automating+%7C+Deploying;Learning+Cloud+and+DevOps+Every+Day" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/haripalkadam">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:kadamharipal611@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -60,10 +60,10 @@ My interests include:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SonarQube-Code_Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nexus-Artifact_Management-143055?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tomcat-Application_Server-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-Web_Server-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-Code_Quality-8B5CF6?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nexus-Artifact_Management-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tomcat-Application_Server-9333EA?style=for-the-badge&logo=apachetomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-Web_Server-0891B2?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 ### 💻 Programming & Development
 
@@ -126,7 +126,7 @@ My interests include:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Local_Storage-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Local_Storage-8B5CF6?style=flat-square"/>
 
 **Key Features**
 
@@ -146,13 +146,13 @@ My interests include:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.E.-Information_Technology-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.E.-Information_Technology-7C3AED?style=for-the-badge"/>
 
 ### Siddhant College of Engineering, Pune
 
 <text>2023 – 2027 | Pursuing</text>
 
-<text>CGPA: 8.9 / 10</text>
+<text>CGPA: 9.29 / 10</text>
 
 </div>
 
@@ -167,13 +167,13 @@ My interests include:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -201,11 +201,11 @@ My interests include:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/haripalkadam">
-<img src="https://img.shields.io/badge/LINKEDIN-HARIPAL_KADAM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-HARIPAL_KADAM-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kadamharipal611@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-kadamharipal611%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-kadamharipal611%40gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -216,6 +216,6 @@ My interests include:
 
 **Thanks for exploring my digital workspace!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:172554,100:020617&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:25104A,70:4C1D95,100:0891B2&height=130&section=footer" width="100%"/>
 
 </div>
